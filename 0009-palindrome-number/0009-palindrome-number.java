@@ -1,38 +1,23 @@
 import java.util.*;
-class Solution {
-    public boolean isPalindrome(int x) {
-        String a;
-        String b;
-        String rev="";
-        if(x>=0)
+class Solution 
+{
+    public boolean isPalindrome(int x)
+    {
+        String s = String.valueOf(x);
+        int lp = 0;
+        int rp =s.length()-1;
+        while(lp<=rp)
         {
-            a=String.valueOf(x);
-            for(int i=a.length()-1;i>=0;i--)
+            if(s.charAt(lp)==s.charAt(rp))
             {
-                rev=rev+a.charAt(i);
-
+                lp=lp+1;
+                rp=rp-1;
+            }
+            else
+            {
+                return false;
             }
         }
-        else
-        {
-            x=x*(-1);
-            a=String.valueOf(x);
-            a="-"+a;
-            for(int i=a.length()-1;i>=0;i--)
-            {
-                rev="-"+rev+a.charAt(i);
-
-            }
-        }
-        
-        if(a.equals(rev))
-        {
-            return true;
-        }
-        else
-        {
-            return false;
-        }
-        
+        return true;
     }
 }
