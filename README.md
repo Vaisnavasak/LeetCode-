@@ -32,4 +32,5 @@ Just Programming......
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Vaisnavasak/LeetCode-/tree/main/0009-palindrome-number/) | Easy |
+| [2119-a-number-after-a-double-reversal](https://github.com/Vaisnavasak/LeetCode-/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 <!---LeetCode Topics End-->
