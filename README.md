@@ -37,4 +37,9 @@ Just Programming......
 | [0507-perfect-number](https://github.com/Vaisnavasak/LeetCode-/tree/main/0507-perfect-number/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/Vaisnavasak/LeetCode-/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Vaisnavasak/LeetCode-/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Vaisnavasak/LeetCode-/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Vaisnavasak/LeetCode-/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
