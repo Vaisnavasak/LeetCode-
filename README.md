@@ -16,6 +16,7 @@ Just Programming......
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vaisnavasak/LeetCode-/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0367-valid-perfect-square](https://github.com/Vaisnavasak/LeetCode-/tree/main/0367-valid-perfect-square/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,6 +33,7 @@ Just Programming......
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Vaisnavasak/LeetCode-/tree/main/0009-palindrome-number/) | Easy |
+| [0367-valid-perfect-square](https://github.com/Vaisnavasak/LeetCode-/tree/main/0367-valid-perfect-square/) | Easy |
 | [0507-perfect-number](https://github.com/Vaisnavasak/LeetCode-/tree/main/0507-perfect-number/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/Vaisnavasak/LeetCode-/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Vaisnavasak/LeetCode-/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
