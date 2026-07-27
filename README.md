@@ -10,6 +10,7 @@ Just Programming......
 | [0004-median-of-two-sorted-arrays](https://github.com/Vaisnavasak/LeetCode-/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/Vaisnavasak/LeetCode-/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/Vaisnavasak/LeetCode-/tree/main/0066-plus-one/) | Easy |
+| [0075-sort-colors](https://github.com/Vaisnavasak/LeetCode-/tree/main/0075-sort-colors/) | Medium |
 | [0136-single-number](https://github.com/Vaisnavasak/LeetCode-/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Vaisnavasak/LeetCode-/tree/main/0137-single-number-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/Vaisnavasak/LeetCode-/tree/main/0260-single-number-iii/) | Medium |
@@ -67,4 +68,12 @@ Just Programming......
 | [0136-single-number](https://github.com/Vaisnavasak/LeetCode-/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Vaisnavasak/LeetCode-/tree/main/0137-single-number-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/Vaisnavasak/LeetCode-/tree/main/0260-single-number-iii/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Vaisnavasak/LeetCode-/tree/main/0075-sort-colors/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Vaisnavasak/LeetCode-/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
