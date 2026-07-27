@@ -15,7 +15,7 @@ class Solution
                 }
             }
         }
-        System.out.print(Arrays.toString(nums));
+        //System.out.print(Arrays.toString(nums));
         
     }
 }
