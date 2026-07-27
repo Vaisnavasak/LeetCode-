@@ -8,6 +8,7 @@ Just Programming......
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Vaisnavasak/LeetCode-/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vaisnavasak/LeetCode-/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0066-plus-one](https://github.com/Vaisnavasak/LeetCode-/tree/main/0066-plus-one/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Vaisnavasak/LeetCode-/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Vaisnavasak/LeetCode-/tree/main/1929-concatenation-of-array/) | Easy |
 ## Hash Table
@@ -35,6 +36,7 @@ Just Programming......
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Vaisnavasak/LeetCode-/tree/main/0009-palindrome-number/) | Easy |
+| [0066-plus-one](https://github.com/Vaisnavasak/LeetCode-/tree/main/0066-plus-one/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Vaisnavasak/LeetCode-/tree/main/0367-valid-perfect-square/) | Easy |
 | [0507-perfect-number](https://github.com/Vaisnavasak/LeetCode-/tree/main/0507-perfect-number/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/Vaisnavasak/LeetCode-/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
