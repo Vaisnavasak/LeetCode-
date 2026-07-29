@@ -16,6 +16,7 @@ Just Programming......
 | [0260-single-number-iii](https://github.com/Vaisnavasak/LeetCode-/tree/main/0260-single-number-iii/) | Medium |
 | [0704-binary-search](https://github.com/Vaisnavasak/LeetCode-/tree/main/0704-binary-search/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Vaisnavasak/LeetCode-/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/Vaisnavasak/LeetCode-/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Vaisnavasak/LeetCode-/tree/main/1929-concatenation-of-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -61,6 +62,7 @@ Just Programming......
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1920-build-array-from-permutation](https://github.com/Vaisnavasak/LeetCode-/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Vaisnavasak/LeetCode-/tree/main/1929-concatenation-of-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
