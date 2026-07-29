@@ -15,6 +15,7 @@ Just Programming......
 | [0137-single-number-ii](https://github.com/Vaisnavasak/LeetCode-/tree/main/0137-single-number-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/Vaisnavasak/LeetCode-/tree/main/0260-single-number-iii/) | Medium |
 | [0704-binary-search](https://github.com/Vaisnavasak/LeetCode-/tree/main/0704-binary-search/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Vaisnavasak/LeetCode-/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Vaisnavasak/LeetCode-/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Vaisnavasak/LeetCode-/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Vaisnavasak/LeetCode-/tree/main/1929-concatenation-of-array/) | Easy |
@@ -48,6 +49,7 @@ Just Programming......
 | [0066-plus-one](https://github.com/Vaisnavasak/LeetCode-/tree/main/0066-plus-one/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Vaisnavasak/LeetCode-/tree/main/0367-valid-perfect-square/) | Easy |
 | [0507-perfect-number](https://github.com/Vaisnavasak/LeetCode-/tree/main/0507-perfect-number/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Vaisnavasak/LeetCode-/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/Vaisnavasak/LeetCode-/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Vaisnavasak/LeetCode-/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vaisnavasak/LeetCode-/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
