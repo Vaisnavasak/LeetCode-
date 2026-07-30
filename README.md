@@ -14,6 +14,7 @@ Just Programming......
 | [0136-single-number](https://github.com/Vaisnavasak/LeetCode-/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Vaisnavasak/LeetCode-/tree/main/0137-single-number-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/Vaisnavasak/LeetCode-/tree/main/0260-single-number-iii/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/Vaisnavasak/LeetCode-/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0704-binary-search](https://github.com/Vaisnavasak/LeetCode-/tree/main/0704-binary-search/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vaisnavasak/LeetCode-/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Vaisnavasak/LeetCode-/tree/main/1480-running-sum-of-1d-array/) | Easy |
