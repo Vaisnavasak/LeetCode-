@@ -40,6 +40,7 @@ Just Programming......
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Vaisnavasak/LeetCode-/tree/main/0020-valid-parentheses/) | Easy |
+| [0344-reverse-string](https://github.com/Vaisnavasak/LeetCode-/tree/main/0344-reverse-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +80,7 @@ Just Programming......
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Vaisnavasak/LeetCode-/tree/main/0011-container-with-most-water/) | Medium |
 | [0075-sort-colors](https://github.com/Vaisnavasak/LeetCode-/tree/main/0075-sort-colors/) | Medium |
+| [0344-reverse-string](https://github.com/Vaisnavasak/LeetCode-/tree/main/0344-reverse-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
