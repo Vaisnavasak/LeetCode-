@@ -18,6 +18,7 @@ Just Programming......
 | [0260-single-number-iii](https://github.com/Vaisnavasak/LeetCode-/tree/main/0260-single-number-iii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Vaisnavasak/LeetCode-/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0704-binary-search](https://github.com/Vaisnavasak/LeetCode-/tree/main/0704-binary-search/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Vaisnavasak/LeetCode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vaisnavasak/LeetCode-/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Vaisnavasak/LeetCode-/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Vaisnavasak/LeetCode-/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -85,10 +86,12 @@ Just Programming......
 | [0011-container-with-most-water](https://github.com/Vaisnavasak/LeetCode-/tree/main/0011-container-with-most-water/) | Medium |
 | [0075-sort-colors](https://github.com/Vaisnavasak/LeetCode-/tree/main/0075-sort-colors/) | Medium |
 | [0344-reverse-string](https://github.com/Vaisnavasak/LeetCode-/tree/main/0344-reverse-string/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Vaisnavasak/LeetCode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Vaisnavasak/LeetCode-/tree/main/0075-sort-colors/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/Vaisnavasak/LeetCode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
