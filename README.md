@@ -12,6 +12,7 @@ Just Programming......
 | [0035-search-insert-position](https://github.com/Vaisnavasak/LeetCode-/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/Vaisnavasak/LeetCode-/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/Vaisnavasak/LeetCode-/tree/main/0075-sort-colors/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaisnavasak/LeetCode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Vaisnavasak/LeetCode-/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Vaisnavasak/LeetCode-/tree/main/0137-single-number-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/Vaisnavasak/LeetCode-/tree/main/0260-single-number-iii/) | Medium |
@@ -92,4 +93,8 @@ Just Programming......
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Vaisnavasak/LeetCode-/tree/main/0011-container-with-most-water/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaisnavasak/LeetCode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
