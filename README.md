@@ -9,6 +9,7 @@ Just Programming......
 | [0001-two-sum](https://github.com/Vaisnavasak/LeetCode-/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vaisnavasak/LeetCode-/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/Vaisnavasak/LeetCode-/tree/main/0011-container-with-most-water/) | Medium |
+| [0027-remove-element](https://github.com/Vaisnavasak/LeetCode-/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Vaisnavasak/LeetCode-/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/Vaisnavasak/LeetCode-/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/Vaisnavasak/LeetCode-/tree/main/0075-sort-colors/) | Medium |
@@ -86,6 +87,7 @@ Just Programming......
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Vaisnavasak/LeetCode-/tree/main/0011-container-with-most-water/) | Medium |
+| [0027-remove-element](https://github.com/Vaisnavasak/LeetCode-/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/Vaisnavasak/LeetCode-/tree/main/0075-sort-colors/) | Medium |
 | [0283-move-zeroes](https://github.com/Vaisnavasak/LeetCode-/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Vaisnavasak/LeetCode-/tree/main/0344-reverse-string/) | Easy |
