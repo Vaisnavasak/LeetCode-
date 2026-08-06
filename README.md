@@ -19,6 +19,7 @@ Just Programming......
 | [0137-single-number-ii](https://github.com/Vaisnavasak/LeetCode-/tree/main/0137-single-number-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/Vaisnavasak/LeetCode-/tree/main/0260-single-number-iii/) | Medium |
 | [0283-move-zeroes](https://github.com/Vaisnavasak/LeetCode-/tree/main/0283-move-zeroes/) | Easy |
+| [0414-third-maximum-number](https://github.com/Vaisnavasak/LeetCode-/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Vaisnavasak/LeetCode-/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0704-binary-search](https://github.com/Vaisnavasak/LeetCode-/tree/main/0704-binary-search/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Vaisnavasak/LeetCode-/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -100,6 +101,7 @@ Just Programming......
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Vaisnavasak/LeetCode-/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Vaisnavasak/LeetCode-/tree/main/0088-merge-sorted-array/) | Easy |
+| [0414-third-maximum-number](https://github.com/Vaisnavasak/LeetCode-/tree/main/0414-third-maximum-number/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Vaisnavasak/LeetCode-/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Vaisnavasak/LeetCode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Greedy
