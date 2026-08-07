@@ -17,6 +17,7 @@ Just Programming......
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaisnavasak/LeetCode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Vaisnavasak/LeetCode-/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Vaisnavasak/LeetCode-/tree/main/0137-single-number-ii/) | Medium |
+| [0217-contains-duplicate](https://github.com/Vaisnavasak/LeetCode-/tree/main/0217-contains-duplicate/) | Easy |
 | [0260-single-number-iii](https://github.com/Vaisnavasak/LeetCode-/tree/main/0260-single-number-iii/) | Medium |
 | [0283-move-zeroes](https://github.com/Vaisnavasak/LeetCode-/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/Vaisnavasak/LeetCode-/tree/main/0414-third-maximum-number/) | Easy |
@@ -33,6 +34,7 @@ Just Programming......
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Vaisnavasak/LeetCode-/tree/main/0001-two-sum/) | Easy |
+| [0217-contains-duplicate](https://github.com/Vaisnavasak/LeetCode-/tree/main/0217-contains-duplicate/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +103,7 @@ Just Programming......
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Vaisnavasak/LeetCode-/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Vaisnavasak/LeetCode-/tree/main/0088-merge-sorted-array/) | Easy |
+| [0217-contains-duplicate](https://github.com/Vaisnavasak/LeetCode-/tree/main/0217-contains-duplicate/) | Easy |
 | [0414-third-maximum-number](https://github.com/Vaisnavasak/LeetCode-/tree/main/0414-third-maximum-number/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Vaisnavasak/LeetCode-/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Vaisnavasak/LeetCode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
