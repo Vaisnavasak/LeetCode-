@@ -22,6 +22,7 @@ Just Programming......
 | [0260-single-number-iii](https://github.com/Vaisnavasak/LeetCode-/tree/main/0260-single-number-iii/) | Medium |
 | [0283-move-zeroes](https://github.com/Vaisnavasak/LeetCode-/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/Vaisnavasak/LeetCode-/tree/main/0414-third-maximum-number/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vaisnavasak/LeetCode-/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Vaisnavasak/LeetCode-/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0704-binary-search](https://github.com/Vaisnavasak/LeetCode-/tree/main/0704-binary-search/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Vaisnavasak/LeetCode-/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -37,6 +38,7 @@ Just Programming......
 | [0001-two-sum](https://github.com/Vaisnavasak/LeetCode-/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/Vaisnavasak/LeetCode-/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Vaisnavasak/LeetCode-/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vaisnavasak/LeetCode-/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
