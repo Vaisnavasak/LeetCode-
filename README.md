@@ -18,6 +18,7 @@ Just Programming......
 | [0136-single-number](https://github.com/Vaisnavasak/LeetCode-/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Vaisnavasak/LeetCode-/tree/main/0137-single-number-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/Vaisnavasak/LeetCode-/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/Vaisnavasak/LeetCode-/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0260-single-number-iii](https://github.com/Vaisnavasak/LeetCode-/tree/main/0260-single-number-iii/) | Medium |
 | [0283-move-zeroes](https://github.com/Vaisnavasak/LeetCode-/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/Vaisnavasak/LeetCode-/tree/main/0414-third-maximum-number/) | Easy |
@@ -35,6 +36,7 @@ Just Programming......
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Vaisnavasak/LeetCode-/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/Vaisnavasak/LeetCode-/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/Vaisnavasak/LeetCode-/tree/main/0219-contains-duplicate-ii/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,4 +117,8 @@ Just Programming......
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaisnavasak/LeetCode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Vaisnavasak/LeetCode-/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
