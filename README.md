@@ -17,6 +17,7 @@ Just Programming......
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaisnavasak/LeetCode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Vaisnavasak/LeetCode-/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Vaisnavasak/LeetCode-/tree/main/0137-single-number-ii/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vaisnavasak/LeetCode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/Vaisnavasak/LeetCode-/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Vaisnavasak/LeetCode-/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0260-single-number-iii](https://github.com/Vaisnavasak/LeetCode-/tree/main/0260-single-number-iii/) | Medium |
@@ -45,6 +46,7 @@ Just Programming......
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vaisnavasak/LeetCode-/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/Vaisnavasak/LeetCode-/tree/main/0035-search-insert-position/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vaisnavasak/LeetCode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Vaisnavasak/LeetCode-/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/Vaisnavasak/LeetCode-/tree/main/0704-binary-search/) | Easy |
 ## Divide and Conquer
@@ -100,6 +102,7 @@ Just Programming......
 | [0027-remove-element](https://github.com/Vaisnavasak/LeetCode-/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/Vaisnavasak/LeetCode-/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Vaisnavasak/LeetCode-/tree/main/0088-merge-sorted-array/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vaisnavasak/LeetCode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/Vaisnavasak/LeetCode-/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Vaisnavasak/LeetCode-/tree/main/0344-reverse-string/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Vaisnavasak/LeetCode-/tree/main/0905-sort-array-by-parity/) | Easy |
