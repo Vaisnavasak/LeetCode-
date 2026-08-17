@@ -25,6 +25,7 @@ Just Programming......
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vaisnavasak/LeetCode-/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Vaisnavasak/LeetCode-/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0704-binary-search](https://github.com/Vaisnavasak/LeetCode-/tree/main/0704-binary-search/) | Easy |
+| [0724-find-pivot-index](https://github.com/Vaisnavasak/LeetCode-/tree/main/0724-find-pivot-index/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Vaisnavasak/LeetCode-/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Vaisnavasak/LeetCode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vaisnavasak/LeetCode-/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -79,6 +80,7 @@ Just Programming......
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0724-find-pivot-index](https://github.com/Vaisnavasak/LeetCode-/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Vaisnavasak/LeetCode-/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
