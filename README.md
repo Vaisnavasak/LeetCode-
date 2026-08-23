@@ -58,6 +58,7 @@ Just Programming......
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Vaisnavasak/LeetCode-/tree/main/0020-valid-parentheses/) | Easy |
 | [0344-reverse-string](https://github.com/Vaisnavasak/LeetCode-/tree/main/0344-reverse-string/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/Vaisnavasak/LeetCode-/tree/main/1859-sorting-the-sentence/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,6 +117,7 @@ Just Programming......
 | [0414-third-maximum-number](https://github.com/Vaisnavasak/LeetCode-/tree/main/0414-third-maximum-number/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Vaisnavasak/LeetCode-/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Vaisnavasak/LeetCode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/Vaisnavasak/LeetCode-/tree/main/1859-sorting-the-sentence/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,4 +130,8 @@ Just Programming......
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Vaisnavasak/LeetCode-/tree/main/0219-contains-duplicate-ii/) | Easy |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1859-sorting-the-sentence](https://github.com/Vaisnavasak/LeetCode-/tree/main/1859-sorting-the-sentence/) | Easy |
 <!---LeetCode Topics End-->
