@@ -59,6 +59,7 @@ Just Programming......
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Vaisnavasak/LeetCode-/tree/main/0020-valid-parentheses/) | Easy |
 | [0344-reverse-string](https://github.com/Vaisnavasak/LeetCode-/tree/main/0344-reverse-string/) | Easy |
+| [0709-to-lower-case](https://github.com/Vaisnavasak/LeetCode-/tree/main/0709-to-lower-case/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Vaisnavasak/LeetCode-/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/Vaisnavasak/LeetCode-/tree/main/1859-sorting-the-sentence/) | Easy |
 ## Stack
