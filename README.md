@@ -32,6 +32,7 @@ Just Programming......
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vaisnavasak/LeetCode-/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Vaisnavasak/LeetCode-/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Vaisnavasak/LeetCode-/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Vaisnavasak/LeetCode-/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Vaisnavasak/LeetCode-/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Vaisnavasak/LeetCode-/tree/main/1929-concatenation-of-array/) | Easy |
 ## Hash Table
@@ -58,6 +59,7 @@ Just Programming......
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Vaisnavasak/LeetCode-/tree/main/0020-valid-parentheses/) | Easy |
 | [0344-reverse-string](https://github.com/Vaisnavasak/LeetCode-/tree/main/0344-reverse-string/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Vaisnavasak/LeetCode-/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/Vaisnavasak/LeetCode-/tree/main/1859-sorting-the-sentence/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
