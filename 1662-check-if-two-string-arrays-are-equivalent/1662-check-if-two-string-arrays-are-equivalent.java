@@ -11,10 +11,6 @@ class Solution {
         {
             b=b.concat(j);
         }
-        if(a.equals(b))
-        {
-            return true;
-        }
-        return false;
+        return a.equals(b);
     }
 }
