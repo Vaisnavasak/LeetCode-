@@ -61,6 +61,7 @@ Just Programming......
 | [0344-reverse-string](https://github.com/Vaisnavasak/LeetCode-/tree/main/0344-reverse-string/) | Easy |
 | [0709-to-lower-case](https://github.com/Vaisnavasak/LeetCode-/tree/main/0709-to-lower-case/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Vaisnavasak/LeetCode-/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Vaisnavasak/LeetCode-/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/Vaisnavasak/LeetCode-/tree/main/1859-sorting-the-sentence/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -137,4 +138,8 @@ Just Programming......
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1859-sorting-the-sentence](https://github.com/Vaisnavasak/LeetCode-/tree/main/1859-sorting-the-sentence/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Vaisnavasak/LeetCode-/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 <!---LeetCode Topics End-->
