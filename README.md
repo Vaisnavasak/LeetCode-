@@ -32,6 +32,7 @@ Just Programming......
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vaisnavasak/LeetCode-/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Vaisnavasak/LeetCode-/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Vaisnavasak/LeetCode-/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1539-kth-missing-positive-number](https://github.com/Vaisnavasak/LeetCode-/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Vaisnavasak/LeetCode-/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Vaisnavasak/LeetCode-/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Vaisnavasak/LeetCode-/tree/main/1929-concatenation-of-array/) | Easy |
@@ -50,6 +51,7 @@ Just Programming......
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vaisnavasak/LeetCode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Vaisnavasak/LeetCode-/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/Vaisnavasak/LeetCode-/tree/main/0704-binary-search/) | Easy |
+| [1539-kth-missing-positive-number](https://github.com/Vaisnavasak/LeetCode-/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
