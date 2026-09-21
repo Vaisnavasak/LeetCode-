@@ -22,6 +22,7 @@ Just Programming......
 | [0217-contains-duplicate](https://github.com/Vaisnavasak/LeetCode-/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Vaisnavasak/LeetCode-/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0260-single-number-iii](https://github.com/Vaisnavasak/LeetCode-/tree/main/0260-single-number-iii/) | Medium |
+| [0268-missing-number](https://github.com/Vaisnavasak/LeetCode-/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Vaisnavasak/LeetCode-/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/Vaisnavasak/LeetCode-/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vaisnavasak/LeetCode-/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -43,6 +44,7 @@ Just Programming......
 | [0001-two-sum](https://github.com/Vaisnavasak/LeetCode-/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/Vaisnavasak/LeetCode-/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Vaisnavasak/LeetCode-/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0268-missing-number](https://github.com/Vaisnavasak/LeetCode-/tree/main/0268-missing-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vaisnavasak/LeetCode-/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -51,6 +53,7 @@ Just Programming......
 | [0035-search-insert-position](https://github.com/Vaisnavasak/LeetCode-/tree/main/0035-search-insert-position/) | Easy |
 | [0162-find-peak-element](https://github.com/Vaisnavasak/LeetCode-/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vaisnavasak/LeetCode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0268-missing-number](https://github.com/Vaisnavasak/LeetCode-/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Vaisnavasak/LeetCode-/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/Vaisnavasak/LeetCode-/tree/main/0704-binary-search/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/Vaisnavasak/LeetCode-/tree/main/1539-kth-missing-positive-number/) | Easy |
@@ -78,6 +81,7 @@ Just Programming......
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Vaisnavasak/LeetCode-/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/Vaisnavasak/LeetCode-/tree/main/0066-plus-one/) | Easy |
+| [0268-missing-number](https://github.com/Vaisnavasak/LeetCode-/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Vaisnavasak/LeetCode-/tree/main/0367-valid-perfect-square/) | Easy |
 | [0507-perfect-number](https://github.com/Vaisnavasak/LeetCode-/tree/main/0507-perfect-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vaisnavasak/LeetCode-/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -106,6 +110,7 @@ Just Programming......
 | [0136-single-number](https://github.com/Vaisnavasak/LeetCode-/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Vaisnavasak/LeetCode-/tree/main/0137-single-number-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/Vaisnavasak/LeetCode-/tree/main/0260-single-number-iii/) | Medium |
+| [0268-missing-number](https://github.com/Vaisnavasak/LeetCode-/tree/main/0268-missing-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,6 +130,7 @@ Just Programming......
 | [0075-sort-colors](https://github.com/Vaisnavasak/LeetCode-/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Vaisnavasak/LeetCode-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/Vaisnavasak/LeetCode-/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/Vaisnavasak/LeetCode-/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/Vaisnavasak/LeetCode-/tree/main/0414-third-maximum-number/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Vaisnavasak/LeetCode-/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Vaisnavasak/LeetCode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
